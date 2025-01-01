@@ -1,5 +1,3 @@
-import os
-os.system("clear") OR os.system("cls")
 
 class bcolors:
     OKGREEN = '\033[92m'
